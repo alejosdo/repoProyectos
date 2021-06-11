@@ -1,0 +1,193 @@
+Reporte de exportaciones por año por Departamento
+------------------------------------------------------------
+------------------------------------------------------------
+Año: 2018
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          428818.04
+Atlantico              32.49
+Bogota               1252.51
+Bolivar                70.42
+Caldas                  0.08
+Cesar                 276.18
+Cundinamarca         1791.83
+Magdalena          265626.39
+Quindio                 0.16
+Risaralda               0.92
+Santander               0.76
+Sucre                  52.47
+Tolima                 21.21
+Valle del Cauca       173.31
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2017
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          573323.94
+Atlantico             194.83
+Bogota                582.49
+Caldas                  0.39
+Cundinamarca         1681.79
+Magdalena          281402.61
+Putumayo                0.00
+Tolima                  0.00
+Valle del Cauca       128.77
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2016
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia             605380.98
+Bogota                   644.83
+Caldas                    22.82
+Cesar                    416.80
+Cundinamarca            1630.69
+Magdalena             249048.30
+No diligenciado            0.68
+Norte de Santander         0.00
+Sucre                     23.65
+Valle del Cauca           30.06
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2015
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia             513371.91
+Atlantico                  9.12
+Bogota                  1632.82
+Caldas                     0.00
+Cundinamarca             835.87
+Magdalena             240735.18
+Norte de Santander         0.42
+Santander                  0.03
+Valle del Cauca           19.16
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2014
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          547376.65
+Atlantico               0.25
+Bogota               1761.61
+Caldas                  1.21
+Cundinamarca          799.31
+La Guajira            934.30
+Magdalena          226520.88
+Valle del Cauca        41.23
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2013
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          485062.02
+Bogota               1585.70
+Bolivar                 1.68
+Caldas                  0.21
+Cundinamarca          993.01
+La Guajira           2353.07
+Magdalena          225875.00
+Valle del Cauca         6.44
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2012
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia       553775.72
+Atlantico            8.50
+Bogota            1461.87
+Bolivar              0.14
+Cundinamarca      1201.90
+La Guajira         577.28
+Magdalena       215989.03
+Quindio             47.70
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2011
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia       576066.12
+Atlantico            8.50
+Bogota            2563.29
+CAürdoba             0.17
+Caldas               0.48
+Cundinamarca       620.24
+La Guajira         450.27
+Magdalena       195564.32
+Santander            1.77
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2009
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          579305.33
+Atlantico             564.14
+Bogota               3162.99
+Bolivar                32.73
+Caldas                 19.87
+Cundinamarca          566.59
+La Guajira           2354.93
+Magdalena          198011.91
+Risaralda              79.30
+Valle del Cauca        23.56
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2008
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          386469.00
+Atlantico             108.61
+Bogota               1890.35
+Bolivar               179.72
+Caldas                 51.07
+Cauca                  15.71
+Cundinamarca         1191.39
+La Guajira           1212.35
+Magdalena          125959.77
+Risaralda              52.87
+Santander               8.71
+Valle del Cauca        36.09
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2007
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          381871.32
+Atlantico             178.38
+Bogota               1571.60
+Bolivar                16.80
+Caldas                 19.05
+Cauca                   3.87
+Cundinamarca         1779.74
+La Guajira              1.10
+Magdalena          155772.77
+Risaralda             117.87
+Valle del Cauca        17.38
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2006
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia          348440.00
+Atlantico              27.83
+Bogota               2555.24
+Bolivar                16.92
+Caldas                 39.98
+Cauca                  13.67
+Cundinamarca          433.02
+Magdalena          130521.75
+Risaralda             102.76
+Valle del Cauca        13.85
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
+Año: 2010
+------------------------------------------------------------
+DepartamentoOrigen
+Antioquia       501837.68
+Bogota            2983.01
+Caldas               8.72
+Cundinamarca       627.76
+La Guajira        2524.92
+Magdalena       191908.95
+Quindio              0.27
+Name: ValorMilesDolar, dtype: float64
+------------------------------------------------------------
